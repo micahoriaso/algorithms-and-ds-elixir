@@ -1,6 +1,6 @@
 # Algorithms and Data Structures implemented with Elixir
 
-A fun to learn [Elixir](https://elixir-lang.org/) by implementing common data structures and algorithms
+A fun project done with the intention of learning [Elixir](https://elixir-lang.org/) by implementing common data structures and algorithms
 
 ## Installation
 
